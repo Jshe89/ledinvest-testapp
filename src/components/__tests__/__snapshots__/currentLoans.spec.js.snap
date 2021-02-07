@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the pizza data is correct 1`] = `
+Object {
+  "loans": Array [
+    Object {
+      "amount": "85,754",
+      "annualised_return": "8.60",
+      "available": "11,959",
+      "id": "1",
+      "ltv": "48.80",
+      "term_remaining": "864000",
+      "title": "Voluptate et sed tempora qui quisquam.",
+      "tranche": "A",
+    },
+    Object {
+      "amount": "85,754",
+      "annualised_return": "7.10",
+      "available": "31,405",
+      "id": "5",
+      "ltv": "48.80",
+      "term_remaining": "1620000",
+      "title": "Consectetur ipsam qui magnam minus dolore ut fugit.",
+      "tranche": "B",
+    },
+    Object {
+      "amount": "85,754",
+      "annualised_return": "4.80",
+      "available": "12,359",
+      "id": "12",
+      "ltv": "48.80",
+      "term_remaining": "879000",
+      "title": "Dolores repudiandae ut voluptas unde laborum quaerat et sapiente.",
+      "tranche": "C",
+    },
+  ],
+}
+`;
