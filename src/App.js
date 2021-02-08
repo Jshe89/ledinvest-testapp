@@ -1,12 +1,8 @@
 import React from 'react';
 import LoansList from './components/LoansList';
 
-function App() {
-  return (
-    <div>
-      <LoansList />
-    </div>
-  );
-}
+const App = () => {
+  return <LoansList />;
+};
 
 export default App;
